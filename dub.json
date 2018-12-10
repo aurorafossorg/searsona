@@ -1,0 +1,7 @@
+{
+	"name": "searsona",
+	"importPaths": [
+		"source"
+	],
+	"sourcePaths": ["source"]
+}
